@@ -1,3 +1,3 @@
 ### Hello, I'm Philipe!
 
-Brazilian Back-end Developer focused on PHP and Golang and who loves travel and music.
+Brazilian Back-end developer focused on PHP and Golang, who loves traveling and music.
