@@ -5,7 +5,7 @@ Back-end Developer passionate about creating scalable and efficient solutions. I
 ### 🔧 Favorite Projects at the Moment  
 
 - **[watcher](https://github.com/Philipelima/watcher)**  
-  A simple and efficient monitoring tool to track changes on websites or systems, perfect for automation and alerts.
+  A simple Go application that monitors changes in log files in real-time.
 
 - **[brasilapi-go](https://github.com/Philipelima/brasilapi-go)**  
   A Go SDK for integrating with BrasilAPI, making it easy to query ZIP codes, bank data, and other essential information in Brazil.
