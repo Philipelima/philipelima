@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Philipe!
 
-Back-end Developer passionate about creating scalable and efficient solutions. I have experience with **Golang**, **PHP**, and **Laravel**.
+Back-end Developer passionate about creating solutions. I have experience with **Golang**, **PHP**, and **Laravel**.
 
 ### 🔧 Favorite Projects at the Moment  
 
