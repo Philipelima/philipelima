@@ -1,22 +1,21 @@
-# 👋 Olá, eu sou o Philipe!
+# 👋 Hi, I'm Philipe!
 
-### Sobre Mim  
-Desenvolvedor Back-end apaixonado por criar soluções escaláveis e eficientes. Tenho experiência em linguagens como **PHP**, **Laravel** e **Golang**.
+Back-end Developer passionate about creating scalable and efficient solutions. I have experience with **Golang**, **PHP**, and **Laravel**.
 
-### 🔧 Projetos Favoritos no momento 
-
-- **[brasilapi-go](https://github.com/Philipelima/brasilapi-go)**  
-  SDK em Go para integração com a BrasilAPI, facilitando consultas de CEP, dados bancários e outras informações essenciais no Brasil.
+### 🔧 Favorite Projects at the Moment  
 
 - **[watcher](https://github.com/Philipelima/watcher)**  
-  Uma ferramenta de monitoramento simples e eficiente para acompanhar mudanças em sites ou sistemas, ideal para automação e alertas.
+  A simple and efficient monitoring tool to track changes on websites or systems, perfect for automation and alerts.
 
-### 💼 Objetivos e Projetos Futuros  
-- Expandir meus conhecimentos em **Infra/DevOps** e **Arquitetura de Software**.  
-- Contribuir cada vez mais com projetos open source.
+- **[brasilapi-go](https://github.com/Philipelima/brasilapi-go)**  
+  A Go SDK for integrating with BrasilAPI, making it easy to query ZIP codes, bank data, and other essential information in Brazil.
 
-### 📫 Contato  
-Vamos conversar? Me encontre no [LinkedIn](https://www.linkedin.com/in/philipe-matheus-lima/).
+### 💼 Goals and Future Projects  
+- Expand my knowledge in **Infrastructure/DevOps** and **Software Architecture**.  
+- Contribute more to open-source projects.
+
+### 📫 Contact  
+Let’s connect! Find me on [LinkedIn](https://www.linkedin.com/in/philipe-matheus-lima/).
 
 
 <br>
